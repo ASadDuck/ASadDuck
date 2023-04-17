@@ -4,10 +4,10 @@ I’m @ASadDuck
 I’m interested in automation, hardware and AI
 
 
-I’m currently learning Python and with MicroBit 
+I’m currently learning java and with minecraft mods 
 
 
-I’m looking to collaborate on anything cool
+I’m not looking to collaborate until I know more than 4 lines of code
 
 
 How to reach me A_Sad_Duck#7282
