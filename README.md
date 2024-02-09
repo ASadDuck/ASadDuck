@@ -1,9 +1,6 @@
 I’m @ASadDuck
 
 
-I’m interested in automation, hardware and AI
-
-
 I’m currently learning java and with minecraft mods 
 
 
